@@ -7,6 +7,7 @@
 
 body{
     background:  var(--bg-url) no-repeat top center/cover;
+    height: 100vh;
 }
 
 body *{
@@ -16,7 +17,7 @@ body *{
 
 :root{
     --text-color: white;
-    --bg-url: url(assets/dark-desktop.jpg);
+    --bg-url: url(assets/dark-mobile.jpg);
     --stroke-color: rgba(255, 255, 255, 0.5);
     --surface-color: rgba(255, 255, 255, 0.1);
     --surface-color-hover: rgba(255, 255, 255, 0.2);
@@ -26,7 +27,7 @@ body *{
 
 .light{
     --text-color: black;
-    --bg-url: url(assets/light-desktop.jpg);
+    --bg-url: url(assets/light-mobile.jpg);
     --stroke-color: rgba(0, 0, 0, 0.5);
     --surface-color: rgba(0, 0, 0, 0.05);
     --surface-color-hover: rgba(255, 255, 255, 0.02);
@@ -35,7 +36,8 @@ body *{
 }
 
 #container{
-    width: 360px;
+    width: 100%;
+    max-width: 588px;
     margin: 56px auto 0px;
     padding: 0 24px;
 }
@@ -147,5 +149,15 @@ footer{
    font-size: 16px;
    text-align: center;
 }
+
+@media (min-width: 700px){
+    :root{
+        --bg-url: url(./assets/dark-desktop.jpg)
+    }
+    .light{
+        --bg-url: url(./assets/light-desktop.jpg)
+    }
+}
+
 
 /*O jeito certo é o jeito que resolve*/
