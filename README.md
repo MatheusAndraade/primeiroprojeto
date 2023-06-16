@@ -6,13 +6,8 @@ Projeto feito utilizando o curso Discover da Rocketseat, para ensino de tecnolog
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-experiência">Experiência</a>
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
-
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
 <br>
@@ -29,9 +24,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript
 - Git e Github
 
-## 💻 Projeto
+## 💻 Experiência
 
-Projeto feito para iniciar os meus estudos na area de progamação.
+Com esse projeto foi possivel eu rever os conhecimentos que eu já tinha adquirido na faculdade mas tinha ficado guardado na memoria por eu estar muito tempo sem desenvolver nada, com o basico agora já consigo ter novamente uma visão mais ampla de um projeto e como desenvolver um.
 
 ## 🔖 Layout
 
