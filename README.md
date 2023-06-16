@@ -18,8 +18,7 @@ Projeto feito utilizando o curso Discover da Rocketseat, para ensino de tecnolog
 <br>
 
 <p>
-    <img alt="calendario da copa" src=".github/git-dark.png" width="100%">
-    <img alt="calendario da copa" src=".github/git-light.png" width="100%">
+    <img alt="calendario da copa" src=".github/git.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
